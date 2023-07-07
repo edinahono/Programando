@@ -1,6 +1,8 @@
-header {
+.cabeçalho {
   background-color: #000000;
   color: white;
+  display:flex;
+  justify-content: space-aroumd;
 }
 
 .cabeçalho-imagem{
