@@ -1,7 +1,9 @@
-*{
-    margin: 0;
-    padding: 0;
-.cabeçalho {
+** {
+    margem :  0 ;
+    preenchimento :  0 ;
+}
+
+. cabecalho {
   background-color: #000000;
   color: white;
   exibição : flexível;
