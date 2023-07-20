@@ -1,22 +1,26 @@
 * {
-    margem :  0 ;
-    preenchimento :  0 ;
+     margem: 0;
+    preenchimento: 0;
 }
 
-. cabecalho {
+.cabecalho {
   background-color: #000000;
   color: white;
-  exibição : flexível;
-    justificar-conteúdo : espaço ao redor;
-    itens de alinhamento : centro;
-    preenchimento :  24 px  0 ;
+  exibição: flexível;
+    justificar-conteúdo: espaço ao redor;
+    itens de alinhamento: centro;
+    preenchimento:  24px  0 ;
 }
 
-. cabecalho-imagem {
-    largura :  20 % ;
+.cabecalho-imagem{
+    largura:  20%;
 }
 
-.cabeçalho-lista-item {
-    exibição : bloco em linha;
-    margem :  0  16 px ;
-    tamanho da fonte :  24 px ;
+.cabeçalho-lista-item{
+    exibição: bloco em linha;
+    margem:  0  16px;
+    tamanho da fonte:  24px;
+}
+.modelo-imagem{
+    tamanho:25%
+}
