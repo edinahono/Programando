@@ -9,11 +9,10 @@
   aling-items: center;
 }
 
-.cabeçalho-imagem{
-    width: 20%;
+. cabecalho-imagem {
+    largura :  20 % ;
 }
 .cabeçalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
-}
+    exibição : bloco em linha;
+    margem :  0  16 px ;
+    tamanho da fonte :  24 px ;
