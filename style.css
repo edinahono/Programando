@@ -1,4 +1,4 @@
-** {
+* {
     margem :  0 ;
     preenchimento :  0 ;
 }
@@ -10,11 +10,13 @@
     justificar-conteúdo : espaço ao redor;
     itens de alinhamento : centro;
     preenchimento :  24 px  0 ;
+}
 
 . cabecalho-imagem {
     largura :  20 % ;
 }
-.cabeçalho-lista-item{
+
+.cabeçalho-lista-item {
     exibição : bloco em linha;
     margem :  0  16 px ;
     tamanho da fonte :  24 px ;
