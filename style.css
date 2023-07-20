@@ -4,10 +4,10 @@
 .cabeçalho {
   background-color: #000000;
   color: white;
-  display:flex;
-  justify-content: space-aroumd; 
-  aling-items: center;
-}
+  exibição : flexível;
+    justificar-conteúdo : espaço ao redor;
+    itens de alinhamento : centro;
+    preenchimento :  24 px  0 ;
 
 . cabecalho-imagem {
     largura :  20 % ;
