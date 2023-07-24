@@ -1,6 +1,6 @@
 *{
         margin: 0;
-        padding: 0
+        padding: 0;
 }
 
 .cabecalho {
@@ -12,7 +12,7 @@
     padding: 24px 0;
 }
 
-.cabecalho-imagem {
+.cabecalho-imagem{
     width: 20%;
     height: 20%;
 }
