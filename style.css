@@ -55,8 +55,10 @@ body{
     width: 120px;
     padding: 50px;
 }
+
 .closet-div{
     text-align: center;
 }
+
 .closet-todos{
  display: grid; grid-template-columns: 10% 10% 10%;
