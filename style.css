@@ -35,21 +35,28 @@ body{
     color: white;
     display: flex;
     justify-content: center;
-    align-items: center;
-    padding: 130px 0;
+    align-items: flex-start;
+    padding: 35px 0;
 }
 
-.vaidosa-div-conteudo{
-    width: 25%;
+.closet-div-conteudo{
+    width: 40%;
 }
-.vaidosa-titulo{
+
+.closet-título{
     padding: 24px 0;
 }
 
-    .vestidonude{
-        padding: 24px 0;
-    }
-.vaidosa-imagem{ 
-    width: 24px;
-    padding: 4px 8px;
+.closet-titulo{
+    text-align: left;
+    padding: 50px 0;
+
+.closet-imagem{    
+    width: 120px;
+    padding: 50px;
 }
+.closet-di{
+    text-align: center;
+}
+.closet-todos{
+ display: grid; grid-template-columns: 10% 10% 10%;
