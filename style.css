@@ -43,10 +43,12 @@ body{
     width: 35%;
 }
 .vaidosa-titulo{
-    padding: 30px 0;
+    padding: 24px 0;
 }
 
     .vestidonude{
-        width: 120px;
+        padding: 24px 0;
     }
-
+.vaidosa-imagem{ 
+    width: 24px;
+    padding: 4px 8px;
