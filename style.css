@@ -27,8 +27,8 @@ body{
 }
 
 .modelo-imagem {
-    width: 20%;
-    padding: 40px;
+    width: 10%;
+    padding: 30px;
 }
 
 .closet vaidosa fashion {
@@ -64,4 +64,4 @@ closet-imagem {
 
 .closet-todos {
  display: grid; 
- grid-template-columns: 10% 10% 10% 10% 10%;
+ grid-template-columns: 15% 15% 15% 15% 15%;
