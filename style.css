@@ -64,5 +64,6 @@ closet-imagem {
     }
 
     .closet-todos {
+        background-image: linear-gradient(#000000, #252020);
         display: grid;
         grid-template-columns: 20% 20% 20% 20% 20%;
