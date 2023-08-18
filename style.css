@@ -32,6 +32,10 @@ body {
     padding: 30px;
 }
 
+.vaidosa-titulo {
+    font-size: 24px;
+}
+
 .closet vaidosa fashion {
     background-image: linear-gradient(#000000, #252020);
     color: white;
